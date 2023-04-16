@@ -2,6 +2,8 @@
 - sudo apt install make
 - sudo apt install g++
 
+---
+
 (以下操作默认在git根目录下进行)
 # 2. 创建临时文件夹
 - mkdir obj
